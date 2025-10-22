@@ -8,5 +8,5 @@
   - user registration, login (with username or email) and logout
   - user profile
   - customizing admin 
-  - show title of todos in home page with link to detail page 
+  - show title of posts in home page with link to detail page 
   - create, update and delete posts
