@@ -4,7 +4,7 @@
   - create, update and delete todo
   - show title of todos in home page with link to detail page
   - user registration, login and logout
-+ [Social NetWork] (https://github.com/ali-a8s/mongard_django/tree/main/Social)
++ [Social NetWork](https://github.com/ali-a8s/mongard_django/tree/main/Social)
   - user registration, login (with username or email) and logout
   - user profile
   - customizing admin 
