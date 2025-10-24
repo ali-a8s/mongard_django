@@ -128,3 +128,11 @@ AUTHENTICATION_BACKENDS = [
     "accounts.authenticate.EmailBackend",
 ]
 
+# Google Account
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST_USER = 'aliasaaa315@gmail.com'
+EMAIL_PORT = 587
+EMAIL_HOST_PASSWORD = 'zmoftunvfxthvwpx'
+EMAIL_USE_TLS = True
+DEFAULT_FORM_EMAIL = 'Social Django'

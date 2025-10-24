@@ -5,10 +5,11 @@
     <h3>Login</h3>
     <br>
 
-
     <form action="" method="post" class="col-md-2">
         {% csrf_token %}
         {{ form.as_p }}
         <input type="submit" value="send">
+        <br><br>
+        <a href="{% url "accounts:password_reset" %}" class="btn btn-warning">Forget Password</a>
     </form>
 {% endblock  %}
