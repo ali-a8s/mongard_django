@@ -6,6 +6,7 @@
   - user registration, login and logout
 + [Social NetWork](https://github.com/ali-a8s/mongard_django/tree/main/Social)
   - user registration, login (with username or email) and logout
+  - reset password with email
   - user profile
   - customizing admin 
   - show title of posts in home page with link to detail page 
